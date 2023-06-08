@@ -2,6 +2,8 @@
 
 This README provides an overview and usage instructions for the code included in this repository.
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/akhi07rx/Youtube-To-Google-Drive/blob/main/Youtube_To_Google_Drive.ipynb)
+
 ### Introduction
 The code in this repository is designed to facilitate the downloading of files from various sources, including YouTube videos and other URLs. It leverages the `tqdm`, `requests`, `pytube`, and `os` libraries to achieve this functionality.
 
